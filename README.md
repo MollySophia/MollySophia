@@ -1,4 +1,11 @@
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/mollysophia?theme=dark)](https://ghfind.com/u/mollysophia?ref=badge)
 ## Hi there 👋
+- 2026-present, internship at Tencent
+- 2024-2026, make [RWKV](http://rwkv.com/) run on all my possible local devices
+- earlier years, make WoA and linux run on mobile phones
+
+## How to reach me
+Email me at mollysophia379@gmail.com
 
 <!--
 **MollySophia/MollySophia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
