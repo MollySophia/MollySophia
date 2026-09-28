@@ -1,4 +1,4 @@
-[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/mollysophia?theme=dark)](https://ghfind.com/u/mollysophia?ref=badge)
+[![GitHub Roast score card](https://ghfind.com/api/card/mini/mollysophia?variant=radar&theme=dark)](https://ghfind.com/u/mollysophia?ref=badge)
 ## Hi there 👋
 - 2026-present, internship at Tencent
 - 2024-2026, make [RWKV](http://rwkv.com/) run on all my possible local devices
